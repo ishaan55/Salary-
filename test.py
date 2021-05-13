@@ -91,6 +91,9 @@ def calc():
     button_div.grid(row=4,column=3)
 
     cal_win.mainloop()
-
+'''
 if __name__ == '__main__':
-    calc()
+    calc()'''
+
+for i in range(5,0,-1):
+    print(str(i)*i)
